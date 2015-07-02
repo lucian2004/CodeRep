@@ -37,7 +37,7 @@ if %udefine%==1 goto download
 if %udefine%==2 goto udownload
 if %udefine%==a goto about
 if %udefine%==e exit
-
+if %udefine%==lol goto wsf
 
 TYPE NUL > ErrorMsgAll.txt
 
@@ -90,4 +90,9 @@ echo.
 echo Press any key to go to menu.
 pause >nul
 cls
+goto menu
+
+:wsf
+cls
+echo What's So Funny?
 goto menu
