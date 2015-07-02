@@ -55,6 +55,7 @@ TYPE NUL > ErrorMsgAll.txt
     )
 echo Done Downloading!
 timeout 2 >nul /nobreak
+cls
 goto menu
 
 :udownload
