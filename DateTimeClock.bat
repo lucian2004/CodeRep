@@ -1,8 +1,6 @@
 @echo off
 title Date/Time Clock.
 :loop
-echo -=-=-=-=-=-=-=-=-=-=-
-echo.
 echo Date/Time Clock
 echo.
 echo -=-=-=-=-=-=-=-=-=-=-
