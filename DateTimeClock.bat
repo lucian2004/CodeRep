@@ -4,7 +4,6 @@ title Date/Time Clock
 echo -=-=-=-=-=-=-=-=-=-=-
 echo.
 echo Date/Time Clock
-echo Version 1.06
 echo.
 echo -=-=-=-=-=-=-=-=-=-=-
 echo.
